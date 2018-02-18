@@ -1,0 +1,22 @@
+{
+  "name": "functional-test",
+  "authors": [
+    "iErio <david.garcia.wk@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-mocks": "^1.6.9",
+    "jasmine-core": "^3.0.0",
+    "karma-jasmine": "^1.1.1"
+  }
+}
